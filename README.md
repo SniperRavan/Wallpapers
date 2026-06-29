@@ -128,7 +128,16 @@ Simply fork the repository, add your wallpapers to the appropriate folder, and o
 
 > **Please only submit wallpapers that you're allowed to redistribute.**
 
---- 
+---
+
+## ⚠️ Copyright Notice
+
+This repository is a curated collection of wallpapers.
+
+Unless otherwise stated, wallpapers belong to their respective creators. If you're the copyright owner of any image and would like it removed, please open an issue or contact me.
+
+---
+
 <div align="center">
   <sub>Made with 🖤 by <a href="https://github.com/SniperRavan">SniperRavan</a></sub>
 </div>
