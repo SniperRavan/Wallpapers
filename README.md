@@ -4,7 +4,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SniperRavan/Wallpapers?style=for-the-badge&color=6e40c9)
 ![GitHub last commit](https://img.shields.io/github/last-commit/SniperRavan/Wallpapers?style=for-the-badge&color=6e40c9)
-![License](https://img.shields.io/badge/use-personal-blue?style=for-the-badge&color=6e40c9)
+![Usage](https://img.shields.io/badge/Usage-Personal%20Collection-6e40c9?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)
 
 ---
 
@@ -65,7 +66,7 @@ WALLPAPERS/
 
 ## 🖼️ SLIDE-SHOWING WALLPAPER
 
-> **17 wallpapers** selected for desktop slideshows — diverse themes including space, nature, anime & art.
+> **18 wallpapers** selected for desktop slideshows — diverse themes including space, nature, anime & art.
 
 | Preview | File | Size | Type |
 |--------|------|------|------|
@@ -75,7 +76,8 @@ WALLPAPERS/
 | ![](https://raw.githubusercontent.com/SniperRavan/WALLPAPERS/main/SLIDE-SHOWING%20WALLPAPER/backiee-120403-landscape.jpg) | `backiee-120403-landscape.jpg` | 1.7 MB | JPG |
 | ![](https://raw.githubusercontent.com/SniperRavan/WALLPAPERS/main/SLIDE-SHOWING%20WALLPAPER/backiee-126758-landscape.jpg) | `backiee-126758-landscape.jpg` | 221 KB | JPG |
 | ![](https://raw.githubusercontent.com/SniperRavan/WALLPAPERS/main/SLIDE-SHOWING%20WALLPAPER/backiee-203955-landscape.jpg) | `backiee-203955-landscape.jpg` | 2.8 MB | JPG |
-| ![](https://raw.githubusercontent.com/SniperRavan/WALLPAPERS/main/SLIDE-SHOWING%20WALLPAPER/backiee-217832-landscape.jpg) | `backiee-217832-landscape.jpg` | 1.3 MB | JPG |
+| ![](https://github.com/SniperRavan/Wallpapers/blob/main/SLIDE-SHOWING-WALLPAPER/backiee-217832-landscape.jpg?raw=true) | `backiee-217832-landscape.jpg` | 1.3 MB | JPG |   
+|![](https://raw.githubusercontent.com/SniperRavan/Wallpapers/refs/heads/main/SLIDE-SHOWING-WALLPAPER/ff0b3923-066b-4041-953b-bed00a96b1be.png)| `ff0b3923-066b-4041-953b-bed00a96b1be.png` | 2.1 MB | PNG |
 | ![](https://raw.githubusercontent.com/SniperRavan/WALLPAPERS/main/SLIDE-SHOWING%20WALLPAPER/backiee-292979-landscape.jpg) | `backiee-292979-landscape.jpg` | 2.0 MB | JPG |
 | ![](https://raw.githubusercontent.com/SniperRavan/WALLPAPERS/main/SLIDE-SHOWING%20WALLPAPER/backiee-298776-landscape.jpg) | `backiee-298776-landscape.jpg` | 3.1 MB | JPG |
 | ![](https://raw.githubusercontent.com/SniperRavan/WALLPAPERS/main/SLIDE-SHOWING%20WALLPAPER/backiee-305584-landscape.jpg) | `backiee-305584-landscape.jpg` | 418 KB | JPG |
@@ -95,8 +97,8 @@ WALLPAPERS/
 |--------|-------|------|
 | 🔒 LOCK-SCREEN | 6 | Images only |
 | 💻 My laptop wallpaper | 11 | Images + Live (MP4) |
-| 🖼️ SLIDE-SHOWING WALLPAPER | 17 | Images only |
-| **Total** | **34** | — |
+| 🖼️ SLIDE-SHOWING WALLPAPER | 18 | Images only |
+| **Total** | **35** | — |
 
 ---
 
@@ -104,10 +106,29 @@ WALLPAPERS/
 
 - **[Lively Wallpaper](https://github.com/rocksdanister/lively)** — for `.mp4` live wallpapers (free & open source)
 - **[Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)** — premium live wallpaper app
+- **[Hidamari](https://github.com/jeffshee/hidamari)** — the "Wallpaper Engine at home" for broke Linux users 🥲
 - **Windows Slideshow** — built-in, great for the slideshow collection
-
 ---
 
+## 🤝 Contributing
+
+Have an awesome wallpaper? Feel free to contribute!
+
+I'm always looking to expand this collection with high-quality wallpapers, lock screens, and live wallpapers.
+
+### You can contribute by:
+
+* 🖼️ Adding high-resolution wallpapers (preferably 1920×1080 or higher)
+* 🎥 Adding `.mp4` live wallpapers
+* 🌌 Sharing aesthetic, anime, gaming, nature, minimal or space-themed wallpapers
+* 🛠️ Fixing broken links or improving the README
+* ⭐ Starring the repository if you enjoy the collection
+
+Simply fork the repository, add your wallpapers to the appropriate folder, and open a Pull Request.
+
+> **Please only submit wallpapers that you're allowed to redistribute.**
+
+--- 
 <div align="center">
   <sub>Made with 🖤 by <a href="https://github.com/SniperRavan">SniperRavan</a></sub>
 </div>
